@@ -1,1 +1,1 @@
-his is Wololo’s first git project!
+This is Wololo’s first git project!
